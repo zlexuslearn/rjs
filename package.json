@@ -1,0 +1,23 @@
+{
+  "name": "rjs",
+  "version": "1.0.0",
+  "description": "Test prj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://zlexuslearn@github.com/zlexuslearn/rjs.git"
+  },
+  "keywords": [
+    "test",
+    "study"
+  ],
+  "author": "zlexus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zlexuslearn/rjs/issues"
+  },
+  "homepage": "https://github.com/zlexuslearn/rjs#readme"
+}
