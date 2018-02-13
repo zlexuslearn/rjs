@@ -1,1 +1,1 @@
-# rjs
+# rjs - project for study

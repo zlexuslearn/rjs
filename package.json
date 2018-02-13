@@ -4,6 +4,7 @@
   "description": "Test prj",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint ./src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/zlexuslearn/rjs/issues"
   },
-  "homepage": "https://github.com/zlexuslearn/rjs#readme"
+  "homepage": "https://github.com/zlexuslearn/rjs#readme",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "webpack": "^3.11.0"
+  }
 }
